@@ -1,0 +1,116 @@
+/*
+#1 color = red;
+#2 color = #3fbbc0;
+*/
+
+a:hover,
+a:focus {
+  color: red;
+}
+
+.circled {
+  background: red;
+}
+
+.con1 > div,
+.con2 > div,
+.con3 > div {
+  background-color: red;
+}
+
+.scrollup:hover {
+  background: red;
+}
+
+/* service */
+
+.service-icon span {
+  color: red;
+}
+
+/* button */
+.btn-skin {
+  background-color: red;
+  border-color: red;
+}
+
+/* top */
+.top-area {
+  background: #3fbbc0;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+  color: #3fbbc0;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,
+.navbar-custom.top-nav-collapse .nav li.active a {
+  color: #3fbbc0;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+  background-color: red;
+}
+
+.bg-skin {
+  background: red;
+}
+
+.highlight-color {
+  background-color: red;
+}
+.color {
+  color: red;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,
+.pricing-content.featured .price-bottom {
+  background-color: #3fbbc0;
+}
+.pricing-content.featured h3 {
+  background: red;
+}
+
+/* team */
+.cbp-l-grid-team-name {
+  color: #3fbbc0;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+  background-color: red;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+  /* @editable properties */
+  background-color: red;
+  border: 1px solid red;
+}
+
+.cbp-l-filters-dropdownWrap {
+  background: red;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+  /* @editable properties */
+  background-color: red;
+  border-color: red;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+  /* @editable properties */
+  background-color: red;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+  /* @editable properties */
+  background-color: #3fbbc0;
+}
+
+.form-control:focus {
+  border-color: #3fbbc0;
+}
