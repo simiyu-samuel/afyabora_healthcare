@@ -80,14 +80,7 @@ $_SESSION['pid'] = "40";
     <script>
         // Firebase configuration
         const firebaseConfig = {
-            apiKey: "AIzaSyCuf73zMW8wIoG_Wu8FT38KHQtdOvLRS-0",
-            authDomain: "healthcare-b88c6.firebaseapp.com",
-            databaseURL: "https://healthcare-b88c6-default-rtdb.firebaseio.com",
-            projectId: "healthcare-b88c6",
-            storageBucket: "healthcare-b88c6.appspot.com",
-            messagingSenderId: "205464558655",
-            appId: "1:205464558655:web:ca43fe49d832c2594a2c8a",
-            measurementId: "G-BFNPFHMFHV"
+            //fill your details
         };
 
         // Initialize Firebase
