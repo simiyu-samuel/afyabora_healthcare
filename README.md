@@ -355,7 +355,7 @@ copies of the Software...
 
 <div align="center">
   
-  **Samuel Simiyu** - *Full Stack Developer & Healthcare Tech Enthusiast*
+  **Samuel Simiyu** - *Full Stack Developer*
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://simiyu-samuel.github.io/Portfolio-latest)
   [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simiyusamuel869@gmail.com)
