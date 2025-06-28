@@ -80,7 +80,7 @@ $_SESSION['pid'] = "40";
     <script>
         // Firebase configuration
         const firebaseConfig = {
-            //fill your details
+            //fill your details 
         };
 
         // Initialize Firebase
