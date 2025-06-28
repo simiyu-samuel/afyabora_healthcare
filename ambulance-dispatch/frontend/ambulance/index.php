@@ -41,8 +41,8 @@
       // Firebase configuration
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCuf73zMW8wIoG_Wu8FT38KHQtdOvLRS-0",
-    authDomain: "healthcare-b88c6.firebaseapp.com",
+    apiKey: "",
+    authDomain: "",
     databaseURL: "https://healthcare-b88c6-default-rtdb.firebaseio.com",
     projectId: "healthcare-b88c6",
     storageBucket: "healthcare-b88c6.appspot.com",
